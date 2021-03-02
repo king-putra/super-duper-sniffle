@@ -1,3 +1,3 @@
 deploy to heroku
   klik di sini ajg
-https://github.com/RaphielGang/Telegram-Paperplane
+https://heroku.com/deploy?template=https://github.com/RaphielGang/Telegram-Paperplane
