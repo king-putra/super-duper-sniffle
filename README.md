@@ -1,2 +1,2 @@
-# super-duper-sniffle
-Hanya untuk bersenang senang
+# Repo name  klik di sini ajg
+https://github.com/RaphielGang/Telegram-Paperplane
